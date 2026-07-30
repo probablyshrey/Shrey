@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/probablyshrey/Shrey/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/probablyshrey/Shrey/tree/master/0055-jump-game) |
 | [0485-max-consecutive-ones](https://github.com/probablyshrey/Shrey/tree/master/0485-max-consecutive-ones) |
 ## String
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/probablyshrey/Shrey/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/probablyshrey/Shrey/tree/master/0055-jump-game) |
 ## Math
 |  |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/probablyshrey/Shrey/tree/master/0011-container-with-most-water) |
 | [0633-sum-of-square-numbers](https://github.com/probablyshrey/Shrey/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
