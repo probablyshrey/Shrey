@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/probablyshrey/Shrey/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/probablyshrey/Shrey/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/probablyshrey/Shrey/tree/master/0055-jump-game) |
 | [0485-max-consecutive-ones](https://github.com/probablyshrey/Shrey/tree/master/0485-max-consecutive-ones) |
 ## String
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/probablyshrey/Shrey/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/probablyshrey/Shrey/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/probablyshrey/Shrey/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/probablyshrey/Shrey/tree/master/0633-sum-of-square-numbers) |
