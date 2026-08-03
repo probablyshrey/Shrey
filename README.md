@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/probablyshrey/Shrey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/probablyshrey/Shrey/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/probablyshrey/Shrey/tree/master/0485-max-consecutive-ones) |
+| [0877-stone-game](https://github.com/probablyshrey/Shrey/tree/master/0877-stone-game) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/probablyshrey/Shrey/tree/master/0055-jump-game) |
+| [0877-stone-game](https://github.com/probablyshrey/Shrey/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/probablyshrey/Shrey/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/probablyshrey/Shrey/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/probablyshrey/Shrey/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/probablyshrey/Shrey/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,4 +67,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/probablyshrey/Shrey/tree/master/0136-single-number) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/probablyshrey/Shrey/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/probablyshrey/Shrey/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/probablyshrey/Shrey/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
