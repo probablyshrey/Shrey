@@ -1,0 +1,73 @@
+// Online C++ compiler to run C++ program online
+#include <iostream>
+using namespace std;
+void insert(int* a, int el, int k)
+{
+    for (int i=7; i>k; i--)
+    {
+        a[i]=a[i-1];
+    }
+    a[k]=el;
+}
+void printarr(int* a)
+{
+    for (int i=0; i<7; i++)
+    {
+        cout<<a[i]<<" ";
+    }
+    cout<<endl;
+}
+void ifinsert(int* a)
+{
+    int el;int k;
+    cout<<"enter element to be inserted: ";
+    cin>>el;
+    cout<<"enter index to be inserted in: ";
+    cin>>k;
+    cout<<"array before insertion: "<<endl;
+    printarr(a);
+    insert(a, el, k);
+    cout<<"array after insertion:"<<endl;
+    printarr(a);
+}
+void ifdelete(int* a)
+{
+    int n;
+    cout<<"Enter the index of the element to be deleted: ";
+    cin>>n;
+     cout<<"array before deletion: "<<endl;
+    printarr(a);
+    for (int i=n; i<5; i++)
+    {
+        a[i]=a[i+1];
+    }
+    cout<<"Array after deletion: "<<endl;
+    printarr(a);
+}
+int main() {
+    int a[7]={1,2,3,4,6};
+    string ch; string ch1;
+    cout<<"do you want to insert?(y/n) ";
+    cin>>ch;
+    cout<<"do you want to delete?(y/n) ";
+    cin>>ch1;
+    if ((ch=="y")||(ch=="yes")){
+        ifinsert(a);
+    }
+    if ((ch1=="y")||(ch1=="yes")){
+        ifdelete(a);
+    }
+    return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
