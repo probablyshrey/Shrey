@@ -1,0 +1,122 @@
+// Online C compiler to run C program online
+#include <stdio.h>
+#include <stdlib.h>
+struct node{
+    int data;
+    struct node* next;
+};
+struct node* createnode(struct node* head,int data){
+    struct node* new;
+    new=(struct node*)malloc(sizeof(struct node));
+    new->data=data;
+    new->next=head;
+    head=new;
+    return head;
+}
+void traverse(struct node* ptr){
+    printf("CURRENT DATA: \n");
+    while(ptr!=NULL)
+    {
+        printf("%d\n", ptr->data);
+        ptr=ptr->next;
+    }
+}
+void insertatend(struct node* ptr, int data){
+    struct node* new;
+    new=(struct node*)malloc(sizeof(struct node));
+    while(1)
+    {
+        if (ptr->next==NULL)
+        {
+            ptr->next=new;
+            new->data=data;
+            new->next=NULL;
+            break;
+        }
+        ptr=ptr->next;
+    }
+}
+struct node* deletion(struct node* head,int  index){
+    struct node* ptr;
+    ptr=(struct node*)malloc(sizeof(struct node));
+    ptr=head;
+    struct node* prev;
+    prev=(struct node*)malloc(sizeof(struct node));
+    struct node* new;
+    new=(struct node*)malloc(sizeof(struct node));
+    for (int i=0; i<=index; i++)
+    {
+        if (i==index-1)
+        {
+            prev=ptr;
+        }
+        if (i==index)
+        {
+            prev=ptr->next;
+            break;
+        }
+        ptr=ptr->next;
+    }
+    return prev;
+}
+int main() {
+    struct node* head;
+    head=(struct node*)malloc(sizeof(struct node));
+    head->data=3;
+    head->next=NULL;
+    traverse(head);
+    char ch;
+    int data;
+    int choice;
+    int in;
+    while (1)
+    {
+        printf("Operations: \n");
+        printf("1.Insert at beginning \n");
+        printf("2.Insert at end\n");
+        printf("3.Delete a node\n");
+        printf("4.exit\n");
+        scanf("%d", &choice);
+        switch (choice)
+        {
+            case 1:
+            printf("Enter the new data ");
+            scanf("%d", &data);
+            head=createnode(head, data);
+            break;
+            case 2: 
+            printf("Enter the new data ");
+            scanf("%d", &data);
+            insertatend(head, data);
+            break;
+            case 3:
+            printf("enter the index of the node to be deleted: ");
+            scanf("%d", &in);
+            struct node* ptr;
+            ptr=(struct node*)malloc(sizeof(struct node));
+            ptr=head;
+            for(int i=0; i<in; i++)
+            {
+                ptr=ptr->next;
+            }
+            ptr=deletion(head, in);
+            head=deletion(head, in);
+            break;
+            default:
+            break;
+        }
+        if (choice==4)
+        {
+            break;
+        }
+    }
+    traverse(head);
+    return 0;
+}
+
+
+
+
+
+
+
