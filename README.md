@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/probablyshrey/Shrey/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/probablyshrey/Shrey/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/probablyshrey/Shrey/tree/master/0877-stone-game) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/probablyshrey/Shrey/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/probablyshrey/Shrey/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/probablyshrey/Shrey/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/probablyshrey/Shrey/tree/master/0633-sum-of-square-numbers) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/probablyshrey/Shrey/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/probablyshrey/Shrey/tree/master/0877-stone-game) |
+## Sliding Window
+|  |
+| ------- |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/probablyshrey/Shrey/tree/master/2302-count-subarrays-with-score-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/probablyshrey/Shrey/tree/master/2302-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
