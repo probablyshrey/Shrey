@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/probablyshrey/Shrey/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/probablyshrey/Shrey/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/probablyshrey/Shrey/tree/master/0055-jump-game) |
+| [0128-longest-consecutive-sequence](https://github.com/probablyshrey/Shrey/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/probablyshrey/Shrey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/probablyshrey/Shrey/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/probablyshrey/Shrey/tree/master/0485-max-consecutive-ones) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/probablyshrey/Shrey/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/probablyshrey/Shrey/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/probablyshrey/Shrey/tree/master/2302-count-subarrays-with-score-less-than-k) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/probablyshrey/Shrey/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
