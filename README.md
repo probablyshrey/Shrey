@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/probablyshrey/Shrey/tree/master/0520-detect-capital) |
+| [1108-defanging-an-ip-address](https://github.com/probablyshrey/Shrey/tree/master/1108-defanging-an-ip-address) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/probablyshrey/Shrey/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 ## Dynamic Programming
 |  |
