@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/probablyshrey/Shrey/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/probablyshrey/Shrey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/probablyshrey/Shrey/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/probablyshrey/Shrey/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/probablyshrey/Shrey/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/probablyshrey/Shrey/tree/master/0877-stone-game) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/probablyshrey/Shrey/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/probablyshrey/Shrey/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/probablyshrey/Shrey/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/probablyshrey/Shrey/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/probablyshrey/Shrey/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/probablyshrey/Shrey/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
