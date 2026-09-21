@@ -13,10 +13,6 @@ public:
             pro*=i;
         }
         cout<<c;
-        if (c==nums.size())
-        {
-            pro=0;
-        }
         for(int i=0; i<nums.size(); i++)
         {
             if (c!=0)
