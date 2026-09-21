@@ -1,33 +1,19 @@
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
-        vector<int>answer;
-        int pro=1; int prow=1; int c=0;
-        for(auto i: nums)
+        int n=nums.size();
+        vector<int>answer(n, 1);
+        int pro=1; 
+        for (int i=1; i<n; i++)
         {
-            if ((i==0)&&(c<1))
-            {
-                c++;
-                continue;
-            }
-            pro*=i;
+            pro*=nums[i-1];
+            answer[i]*=pro;
         }
-        cout<<c;
-        for(int i=0; i<nums.size(); i++)
+        pro=1;
+        for (int i=n-2; i>=0; i--)
         {
-            if (c!=0)
-            {
-                if (nums[i]!=0)
-                {
-                    answer.push_back(0);
-                }
-                else{
-                    answer.push_back(pro);
-                }
-            }
-            else{
-                answer.push_back(pro*pow(nums[i], -1));
-            }
+            pro*=nums[i+1];
+            answer[i]*=pro;
         }
         return answer;
     }
