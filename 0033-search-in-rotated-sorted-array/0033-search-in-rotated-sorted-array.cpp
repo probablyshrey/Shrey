@@ -2,8 +2,8 @@ class Solution {
 public:
     int bin(vector<int>& a, int target,int low,int high)
     {
-        int mid=low+(high-low)/2;
         if (low>high) return -1;
+        int mid=low+(high-low)/2;
         if (a[mid]==target) return mid;
         if (a[mid]<target)
         {
@@ -17,9 +17,9 @@ public:
     }
     int leftright(vector<int>& a,int target, int low, int high)
     {
+        if (low>high) return -1;
         int mid=low+(high-low)/2;
         if (a[mid]==target) return mid;
-        if (low>high) return -1;
 
         if (a[low]<=a[mid])
         {
