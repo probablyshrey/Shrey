@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/probablyshrey/Shrey/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/probablyshrey/Shrey/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/probablyshrey/Shrey/tree/master/0485-max-consecutive-ones) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/probablyshrey/Shrey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/probablyshrey/Shrey/tree/master/0877-stone-game) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/probablyshrey/Shrey/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2815-max-pair-sum-in-an-array](https://github.com/probablyshrey/Shrey/tree/master/2815-max-pair-sum-in-an-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/probablyshrey/Shrey/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/probablyshrey/Shrey/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/probablyshrey/Shrey/tree/master/0633-sum-of-square-numbers) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/probablyshrey/Shrey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/probablyshrey/Shrey/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Hash Table
 |  |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/probablyshrey/Shrey/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/probablyshrey/Shrey/tree/master/0206-reverse-linked-list) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/probablyshrey/Shrey/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
