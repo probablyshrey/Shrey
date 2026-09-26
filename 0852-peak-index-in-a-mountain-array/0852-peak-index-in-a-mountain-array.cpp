@@ -23,10 +23,10 @@ public:
                 }
             
             }
-            if ((arr[m-1]>arr[m])&&(arr[m+1]<arr[m])){
+            if (arr[m-1]>arr[m]){
                 high=m-1;
             }
-            else if ((arr[m-1]<arr[m])&&(arr[m+1]>arr[m])){
+            else if (arr[m+1]>arr[m]){
                 low=m+1;
             }
             else if ((arr[m-1]<arr[m])&&(arr[m+1]<arr[m])){
