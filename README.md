@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0290-word-pattern](https://github.com/probablyshrey/Shrey/tree/master/0290-word-pattern) |
 | [0520-detect-capital](https://github.com/probablyshrey/Shrey/tree/master/0520-detect-capital) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/probablyshrey/Shrey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/probablyshrey/Shrey/tree/master/1108-defanging-an-ip-address) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/probablyshrey/Shrey/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 ## Dynamic Programming
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/probablyshrey/Shrey/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/probablyshrey/Shrey/tree/master/0055-jump-game) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/probablyshrey/Shrey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Math
 |  |
 | ------- |
@@ -131,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/probablyshrey/Shrey/tree/master/0852-peak-index-in-a-mountain-array) |
+## Stack
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/probablyshrey/Shrey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/probablyshrey/Shrey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
